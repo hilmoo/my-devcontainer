@@ -1,0 +1,13 @@
+{
+	"name": "My Devcontainer",
+	"image": "ghcr.io/hilmoo/containers/my-devcontainer:v0.2.0",
+	"features": {},
+	"customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": []
+		}
+	},
+	"remoteUser": "vscode",
+	"postCreateCommand": ".devcontainer/post-create.sh"
+}
