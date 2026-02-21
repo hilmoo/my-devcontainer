@@ -1,6 +1,6 @@
 {
 	"name": "My Devcontainer",
-	"image": "ghcr.io/hilmoo/containers/my-devcontainer:v0.2.0",
+	"image": "ghcr.io/hilmoo/containers/my-devcontainer:v0.3.0",
 	"features": {},
 	"customizations": {
 		"vscode": {
